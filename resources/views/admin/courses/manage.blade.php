@@ -1,0 +1,1 @@
+{{-- tampilan untuk menampilkan pertanyaan, jumlah student (halaman detail) --}}
